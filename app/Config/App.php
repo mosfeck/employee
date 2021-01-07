@@ -21,7 +21,7 @@ class App extends BaseConfig
 	| environments.
 	|
 	*/
-	public $baseURL = 'http://localhost/Employee-12-November-2020-4.0.4-email-filter/client/';
+	public $baseURL = 'http://localhost/Employee/Employee-30-December-2020-4.0.4-linux/client/';
 
 	/*
 	|--------------------------------------------------------------------------
